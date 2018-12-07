@@ -1,0 +1,22 @@
+{
+  "name": "agail-security",
+  "version": "3.7.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agile-iot/agail-security.git"
+  },
+  "author": "",
+  "license": "EPL-2.0",
+  "bugs": {
+    "url": "https://github.com/agile-iot/agail-security/issues"
+  },
+  "homepage": "https://github.com/agile-iot/agail-security#readme",
+  "dependencies": {
+    "agile-security": "git+https://github.com/Agile-IoT/agile-security.git#v3.7.0"
+  }
+}

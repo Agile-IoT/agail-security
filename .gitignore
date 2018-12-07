@@ -1,0 +1,9 @@
+*policies.json
+*node_modules*
+*.svn*
+*~
+*.sqlite3
+*npm-debug.log
+*/external-api/d-bus/resources/**
+database_**
+*my-agile-ui-conf*
